@@ -161,7 +161,7 @@ def countdown(stats, clock, sb): #countdown the time
     if stats.minutes >= 0:
         stats.milliseconds -= clock.tick(500)
 
-def game_winner(stats, sb):
+def game_winner(stats, sb): #display the winner
     if stats.onescore > stats.twoscore:
         sb.prep_winner("Player 1 Wins", (0,0,100))
 
