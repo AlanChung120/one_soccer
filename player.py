@@ -16,7 +16,7 @@ class Player():
      self.rect.centery = os_settings.ground_level #ground level
 
      self.moving_right = False #movement flag for mobving right
-     self.moving_left = False #movement falg for moving left
+     self.moving_left = False #movement flag for moving left
      self.jumping = False #movement flag for jumping
 
      self.direction = 0 #direction of the player 1 is right -1 is left
