@@ -1,5 +1,7 @@
 # onesoccer
 
+Finished December 17th, 2017
+Uploaded to Github on December 28th, 2019
 Motive:
 After learning Python in grade 10 computer science and learning Python from a book, I wanted to make a game to test my abilities and
 understanding. I also thought it would be a fun little hobby to do whenever I had time. 
@@ -24,7 +26,7 @@ d - move right
 w - jump  
 
 
-To run this game you need to download Python (3 or greater): https://www.python.org/downloads/  
+To run this game you need to download Python (version 3 or greater): https://www.python.org/downloads/  
 Also you will need to download Pygame: http://kidscancode.org/blog/2015/09/pygame_install/  
 After that run command prompt   
 Change directory to the location of one soccer game folder   
